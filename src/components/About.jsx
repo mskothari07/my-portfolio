@@ -9,12 +9,16 @@ const About = () => {
             </div>
             <p className='text-xl mt-10'>
                 Graduate electronics engineer from MIT Academy of Engineering Currently Working in blazeclan technologies.
+                Apart from coding i also have keen interest in digital marketing, particularly seo.
+                Other than tech i do make videos on instagram, like to travel.
+                In my free time i like make DIY's and watch some youtube videos, mostly lifestyle and travel content 
             </p>
 
             <br />
 
             <p className='text-xl'>
-               Also having in
+               I Made this website just for practice and to learn, but soon i will connect my all projects and many more content. 
+               P.S. Please open this website in desktop for better view, working on mobile view (: 
             </p>
         </div>
     </div>
