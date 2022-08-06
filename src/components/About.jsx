@@ -8,13 +8,15 @@ const About = () => {
                 <p className='text-4xl font-bold inline border-b-4 border-gray-500'>About</p>
             </div>
             <p className='text-xl mt-10'>
-                Lorem ipsum dolor sit, amet consectetur adipisicing elit. Non tenetur, voluptas dicta omnis nulla, repudiandae reiciendis quod quo magni necessitatibus soluta possimus architecto quam maiores voluptate ipsam fuga eaque. Perferendis.
+            I'm an Electronics Engineer from MIT Academy of Engineering. Currently I'm working as a Clan Fellow in Blazeclan Technologies. I have a keen interest in coding as well as digital marketing, particularly SEO. Apart from this, my hobbies include making reels for Instagram and travelling. I also love to make DIY things and follow lifestyle and travelling blogging related videos on YouTube.
             </p>
 
             <br />
 
             <p className='text-xl'>
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Suscipit maiores, aperiam obcaecati quae veniam aliquam veritatis beatae reprehenderit, iure dolores cum. Enim debitis amet explicabo, nihil earum ipsam nostrum sequi.
+            I created this website for applying my learnings. The website isn't completed yet and soon I will add my projects and other content. 
+
+            PS please open the website on a desktop for better UI.
             </p>
         </div>
     </div>
