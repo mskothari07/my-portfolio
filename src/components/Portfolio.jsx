@@ -21,10 +21,7 @@ const Portfolio = () => {
             portfolios.map(({id,src}) =>(
                 <div className=' shadow-md shadow-gray-600 rounded-lg'>
                     <img src={src} alt="UnderConstruction" className=' rounded-md duration-200 hover:scale-105 '/>
-                    <div className='flex items-center justify-center'>
-                        <button class="GFG" 
-                        onclick="window.location.href = 'https://ide.geeksforgeeks.org';">
-                         Click Here </button>
+                    <div className='flex items-center justify-center'
                         <button onClick="https://www.linkedin.com/in/kothari-meet/" className='w-1/2 px-6 py-3 m-4 duration-200 hover:scale-105'>LinkedIn</button>
                         <button className='w-1/2 px-6 py-3 m-4 duration-200 hover:scale-105'>Git</button>
                     </div>
