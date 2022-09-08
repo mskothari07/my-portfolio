@@ -16,11 +16,7 @@ const Home = () => {
             I'm Clan Fellow at Blazeclan Tech 
           </h2>
           <p className="text-gray-500 py-4 max-w-md">
-<<<<<<< HEAD
-           Working on different cloud technologies and serveing in cloud consulting unit of <a  href='https://www.blazeclan.com/'>Blazeclan</a>.
-=======
            Working on different cloud technologies and serving in digital services (Full Stack) unit of <a style="color: blue" href="https://www.blazeclan.com/">Blazeclan Technologies</a>.
->>>>>>> 7bd116be41b0bffb406f1be749743243ae15e33d
           </p>
 
           <div>
