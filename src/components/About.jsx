@@ -1,5 +1,5 @@
 import React from 'react'
-
+import learn from '../assets/learn.png';
 const About = () => {
   return (
     <div name="about" className='w-full h-screen bg-gradient-to-b from-gray-800 to-black text-white'>
@@ -18,6 +18,14 @@ const About = () => {
 
             PS please open the website on a desktop for better UI.
             </p>
+            <img
+            src={learn}
+            alt="my profile"
+            className="rounded-2xl self-center w-2/6 md:w-90%"
+          />
+        </div>
+        <div>
+         
         </div>
     </div>
   )
