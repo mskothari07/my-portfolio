@@ -23,8 +23,8 @@ const Portfolio = () => {
                     <img src={src} alt="UnderConstruction" className=' rounded-md duration-200 hover:scale-105 '/>
                     <div className='flex items-center justify-center'>
                     <form>
-                    <button formaction="https://www.linkedin.com/in/kothari-meet/" className='w-1/2 px-6 py-3 m-4 duration-200 hover:scale-105' target="_blank" >LinkedIn</button>
-                    <button formaction="https://github.com/mskothari07" className='w-1/2 px-6 py-3 m-4 duration-200 hover:scale-105' target="_blank" rel="noreferrer">GitHub</button>
+                    <button formAction="https://www.linkedin.com/in/kothari-meet/" className='w-1/2 px-6 py-3 m-4 duration-200 hover:scale-105' target="_blank" >LinkedIn</button>
+                    <button formAction="https://github.com/mskothari07" className='w-1/2 px-6 py-3 m-4 duration-200 hover:scale-105' target="_blank" rel="noreferrer">GitHub</button>
                         
                     </form>
                         
