@@ -6,7 +6,7 @@
 
 ## Demo
 
-![App Screenshot](https://i.imgur.com/d6ZusDU.gif)
+![App GIF](https://i.imgur.com/d6ZusDU.gif)
 
 
 
