@@ -10,8 +10,7 @@
 
 
 ## Live App
-
-[Live App](https://mskothari.netlify.app/)
+https://mskothari.netlify.app/
 
 
 ## 🚀 About us
