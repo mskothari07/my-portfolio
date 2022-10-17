@@ -6,7 +6,7 @@
 
 ## Demo
 
-![preview](https://i.imgur.com/d6ZusDU.gif)
+![preview](preview.gif)
 
 
 
