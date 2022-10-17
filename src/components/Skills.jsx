@@ -16,7 +16,7 @@ const Skills = () => {
               className="w-20 bg-center ml-auto mr-auto "
               alt="js"
             ></img>
-            <p className="text-center text-white my-4 mr-2">JAVASCRIPT</p>
+            <p className="text-center text-white my-4 mr-2"><a href="https://github.com/mskothari07/Module3_JavaScript">JAVASCRIPT</a></p>
           </div>
           <div className="shadow-lg shadow-[#040c16] px-6 py-6 hover:scale-110 ease-in-out duration-300">
             <img
@@ -24,7 +24,7 @@ const Skills = () => {
               className="w-20 bg-cover mx-auto"
               alt="java"
             ></img>
-            <p className="text-center text-white my-4 ">MongoDb</p>
+            <p className="text-center text-white my-4 "><a href="https://github.com/mskothari07/Module2_Db">MongoDb</a></p>
           </div>
           <div className="shadow-lg shadow-[#040c16] px-6 py-6 hover:scale-110 ease-in-out duration-300">
             <img
@@ -32,7 +32,7 @@ const Skills = () => {
               className="w-20 bg-cover mx-auto"
               alt="react"
             ></img>
-            <p className="text-center text-white my-4">React JS</p>
+            <p className="text-center text-white my-4"><a href=" https://github.com/mskothari07/Module4_React">React JS</a></p>
           </div>
           <div className="shadow-lg shadow-[#040c16] px-6 py-6 hover:scale-110 ease-in-out duration-300">
             <img
@@ -40,7 +40,7 @@ const Skills = () => {
               className="w-20 bg-cover mx-auto"
               alt="sql"
             ></img>
-            <p className="text-center text-white my-4">SQL</p>
+            <p className="text-center text-white my-4"><a href="https://github.com/mskothari07/Module2_Db">SQL</a></p>
           </div>
           <div className="shadow-lg shadow-[#040c16] px-6 py-6 hover:scale-110 ease-in-out duration-300">
             <img
@@ -48,7 +48,7 @@ const Skills = () => {
               className="w-20 bg-cover mx-auto"
               alt="html"
             ></img>
-            <p className="text-center text-white my-4">HTML 5</p>
+            <p className="text-center text-white my-4"><a href="https://github.com/mskothari07/Module-1">HTML 5</a></p>
           </div>
           <div className="shadow-lg shadow-[#040c16] px-6 py-6 hover:scale-110 ease-in-out duration-300">
             <img
