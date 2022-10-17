@@ -1,18 +1,13 @@
 
-## Authors
+## Author
 
 - [Meet Kothari](https://github.com/mskothari07)
 
 
-## Screenshots
+## Demo
 
-![App Screenshot](https://imgur.com/0QLku2J.jpeg)
+![App Screenshot](https://i.imgur.com/d6ZusDU.gif)
 
-![App Screenshot](https://imgur.com/8ZQCBOg.jpeg)
-
-![App Screenshot](https://imgur.com/oVClpLR.jpeg)
-
-![App Screenshot](https://imgur.com/ORnEzLe.jpeg)
 
 
 ## 🚀 About us
