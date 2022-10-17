@@ -16,7 +16,7 @@ const Home = () => {
             I'm Clan Fellow at Blazeclan Tech 
           </h2>
           <p className="text-gray-500 py-4 max-w-md">
-           Working on different cloud technologies and serving in digital services (Full Stack) unit of Blazeclan Technologies
+           Working on different cloud technologies and serving in digital services unit of Blazeclan Technologies
           </p>
 
           <div>
