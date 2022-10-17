@@ -4,9 +4,10 @@
 - [Meet Kothari](https://github.com/mskothari07)
 
 
-## Demo
+## Preview
 
 ![preview](preview.gif)
+
 
 
 
