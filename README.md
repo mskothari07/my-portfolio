@@ -11,7 +11,7 @@
 
 ## Live App
 
-https://noteit-mern.netlify.app/
+[Live App](https://mskothari.netlify.app/)
 
 
 ## 🚀 About us
