@@ -9,6 +9,9 @@
 ![preview](preview.gif)
 
 
+## Live App
+
+https://noteit-mern.netlify.app/
 
 
 ## 🚀 About us
