@@ -22,8 +22,10 @@ const Portfolio = () => {
                 <div className=' shadow-md shadow-gray-600 rounded-lg'>
                     <img src={src} alt="UnderConstruction" className=' rounded-md duration-200 hover:scale-105 '/>
                     <div className='flex items-center justify-center'>
-                    <button formAction="https://www.linkedin.com/in/kothari-meet/" className='w-1/2 px-6 py-3 m-4 duration-200 hover:scale-105' target="_blank" >LinkedIn</button>
-                    <button formAction="https://github.com/mskothari07" className='w-1/2 px-6 py-3 m-4 duration-200 hover:scale-105' target="_blank" rel="noreferrer">GitHub</button>
+                        <a href='https://www.linkedin.com/in/kothari-meet/' target="_blank" rel="noreferrer" className='w-1/2 px-6 py-3 m-4 duration-200 hover:scale-105' >LinkedIn </a>
+                    <a href="https://github.com/mskothari07" className='w-1/2 px-6 py-3 m-4 duration-200 hover:scale-105' target="_blank" rel="noreferrer">GitHub</a>
+                        
+                    
                         
                     </div>
                 </div>  
