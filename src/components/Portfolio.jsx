@@ -1,6 +1,6 @@
 import React from "react";
 import PortfolioImg from "../assets/portfolio/portfolio.jpg"
-
+import reflective from "../assets/portfolio/reflective.jpg"
 import loginpage from "../assets/portfolio/loginpage.jpg";
 import tempit from "../assets/portfolio/tempit.jpg";
 import noteit from "../assets/portfolio/noteit.jpg";
@@ -34,6 +34,7 @@ const Portfolio = () => {
     },
     {
       id: 5,
+      src: reflective,
       href: "https://github.com/mskothari07/Reflective_journal",
       code: "https://github.com/mskothari07/Reflective_journal"
     },
