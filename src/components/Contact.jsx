@@ -44,6 +44,9 @@ const Contact = () => {
             </button>
           </form>
         </div>
+        <div>
+        <div  class="elfsight-app-33add0ec-5042-4662-b3f4-ebef766048d5"></div> 
+      </div>
       </div>
     </div>
   );
